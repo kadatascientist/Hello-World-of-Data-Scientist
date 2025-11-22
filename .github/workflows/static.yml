@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>PhD Biostatistician | Bioinformatics &amp; Medical Writer - Data Analysis Solutions</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="15+ yrs PhD Biostatistician delivering Bioinformatics, Systematic Reviews, Meta-analysis, Rasch, AI-integrated Publication Support. 100 % On-time. 70+ papers.">
+  <meta name="keywords" content="PhD Biostatistician, freelance biostatistician, bioinformatics data analysis, systematic review service, meta-analysis consultant, medical writer, publication support, Rasch measurement, AI research integration, Pakistani statistician, Upwork biostatistician, RevMan, R programmer, SPSS, STATA, SAS, Prism, MedCalc, Winsteps, Jamovi, clinical data analysis, healthcare data scientist">
+  <link rel="canonical" href="https://www.dataanalysissolutions.org/">
+  <!-- Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Dr. Khalil Ahmad",
+    "jobTitle": "Principal Biostatistician & Medical Writer",
+    "url": "https://www.dataanalysissolutions.org/",
+    "image": "https://www.dataanalysissolutions.org/img/khalil.jpg",
+    "sameAs": [
+      "https://www.linkedin.com/in/khalilbiostatistician/",
+      "https://www.upwork.com/freelancers/khalilbiostatistician"
+    ],
+    "alumniOf": [
+      {"@type":"Organization","name":"Quaid-i-Azam University"},
+      {"@type":"Organization","name":"University of Agriculture, Faisalabad"}
+    ],
+    "knowsAbout": [
+      "Biostatistics","Bioinformatics","Systematic Review","Meta-analysis","Rasch Measurement","AI in Research","Medical Writing","Clinical Data Analysis"
+    ],
+    "telephone": "+923076778815",
+    "email": "ka.biostatistician@gmail.com"
+  }
+  </script>
+  <!-- OpenGraph -->
+  <meta property="og:title" content="PhD Biostatistician | Data Analysis Solutions">
+  <meta property="og:description" content="15+ yrs experience, 70+ papers, AI-integrated biostatistics & medical writing services.">
+  <meta property="og:image" content="https://www.dataanalysissolutions.org/img/og.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.dataanalysissolutions.org/">
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+</head>
+<body>
+<!-- NAV -->
+<nav id="navbar">
+  <div class="container nav-container">
+    <a href="#home" class="logo"><img src="img/logo.svg" alt="Data Analysis Solutions"></a>
+    <ul class="nav-links">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#process">Process</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#pricing">Pricing</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li class="cta"><a href="https://wa.me/923076778815" target="_blank"><i class="fab fa-whatsapp"></i> WhatsApp</a></li>
+    </ul>
+    <div class="hamburger"><i class="fas fa-bars"></i></div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section id="home" class="hero">
+  <div class="container hero-container">
+    <div class="hero-text">
+      <h1>PhD Biostatistician &amp; Medical Writer<br><span class="highlight">AI-Integrated Data Analysis Solutions</span></h1>
+      <p>15+ years, 70+ papers, 200+ scholars mentored. From Bioinformatics to Systematic Reviews, Rasch to Machine-Learning—delivered on-time, every-time.</p>
+      <div class="hero-btns">
+        <a href="#contact" class="btn primary">Free Quote</a>
+        <a href="https://www.upwork.com/freelancers/khalilbiostatistician" target="_blank" class="btn secondary">Hire on Upwork</a>
+      </div>
+      <div class="trust">
+        <span>4.9 <i class="fas fa-star"></i> Upwork (Top-Rated Plus)</span>
+        <span>98% Recommendation</span>
+      </div>
+    </div>
+    <div class="hero-img">
+      <img src="img/hero.svg" alt="Biostatistician">
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" class="about">
+  <div class="container">
+    <h2>About Dr. Khalil Ahmad</h2>
+    <div class="about-grid">
+      <div class="about-left">
+        <img src="img/khalil.jpg" alt="Dr. Khalil Ahmad">
+        <div class="credentials">
+          <p><i class="fas fa-graduation-cap"></i> PhD Statistics (Quaid-i-Azam University)</p>
+          <p><i class="fas fa-briefcase"></i> 15 yrs Remote Biostatistician (USA, EU, AUS)</p>
+          <p><i class="fas fa-file-alt"></i> 70+ SCI/SCOPUS Publications</p>
+          <p><i class="fas fa-users"></i> 200+ Global Scholars Mentored</p>
+        </div>
+        <div class="social">
+          <a href="https://www.linkedin.com/in/khalilbiostatistician/" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="https://wa.me/923076778815" target="_blank"><i class="fab fa-whatsapp"></i></a>
+          <a href="https://scholar.google.com/citations?user=XXXXXXXX" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+        </div>
+      </div>
+      <div class="about-right">
+        <h3>My Mission</h3>
+        <p>I bridge the gap between raw biomedical data and peer-reviewed truth. Whether you need AI-powered bioinformatics, a PRISMA-guided meta-analysis, or Rasch validation of your new scale, I deliver publication-ready accuracy—fast.</p>
+        <div class="stats">
+          <div><strong>500+</strong> Projects</div>
+          <div><strong>98%</strong> Recommendation</div>
+          <div><strong>24 h</strong> Response</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section id="services" class="services">
+  <div class="container">
+    <h2>Services at a Glance</h2>
+    <div class="service-grid">
+      <div class="card">
+        <i class="fas fa-chart-line"></i>
+        <h3>Biostatistics &amp; Clinical Data</h3>
+        <p>Sample-size, SAP, RCTs, RWE, STROBE-compliant SARs</p>
+      </div>
+      <div class="card">
+        <i class="fas fa-dna"></i>
+        <h3>Bioinformatics &amp; Multi-omics</h3>
+        <p>RNA-seq, scRNA, ChIP, WGCNA, ML classifiers</p>
+      </div>
+      <div class="card">
+        <i class="fas fa-search"></i>
+        <h3>Systematic Review &amp; Meta-analysis</h3>
+        <p>PRISMA-2020, PROSPERO, Cochrane, network-meta</p>
+      </div>
+      <div class="card">
+        <i class="fas fa-ruler-combined"></i>
+        <h3>Rasch &amp; Psychometric Validation</h3>
+        <p>Winsteps, RUMM2030, DIF, equating, reliability</p>
+      </div>
+      <div class="card">
+        <i class="fas fa-file-medical"></i>
+        <h3>Medical Writing &amp; Publication</h3>
+        <p>Manuscripts, CER, posters, cover-letters, journal-response</p>
+      </div>
+      <div class="card">
+        <i class="fas fa-robot"></i>
+        <h3>AI Integration &amp; Automation</h3>
+        <p>LLM-assisted screening, R-Shiny dashboards, predictive models</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section id="process" class="process">
+  <div class="container">
+    <h2>Our 4-Step Workflow</h2>
+    <div class="steps">
+      <div class="step">
+        <h3>1. Free 30-min Consult</h3>
+        <p>Discuss objectives, data, journal &amp; deadlines. NDA if required.</p>
+      </div>
+      <div class="step">
+        <h3>2. Quote &amp; Agreement</h3>
+        <p>Fixed-price or hourly. Milestones tied to SAP, first-cut, final deliverable.</p>
+      </div>
+      <div class="step">
+        <h3>3. Analysis &amp; Drafting</h3>
+        <p>Secure GitHub repo, weekly R-markdown reports, instant Slack/Teams feedback.</p>
+      </div>
+      <div class="step">
+        <h3>4. Delivery &amp; Support</h3>
+        <p>Revisions until journal acceptance. 6-month post-publication support.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PUBLICATIONS -->
+<section id="publications" class="pubs">
+  <div class="container">
+    <h2>Recent Peer-Reviewed Output</h2>
+    <div class="metrics">
+      <div><span id="pub-count">74</span> Articles</div>
+      <div><span id="citations">1,247</span> Citations</div>
+      <div><span id="h-index">18</span> h-index</div>
+    </div>
+    <a href="https://scholar.google.com/citations?user=XXXXXXXX" target="_blank" class="btn">Google Scholar</a>
+  </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section id="testimonials" class="testimonials">
+  <div class="container">
+    <h2>Client Voices</h2>
+    <div class="t-grid">
+      <blockquote>
+        <p>“Dr. Ahmad delivered our Cochrane review SAP, meta-analysis and PRISMA flow in 10 days—accepted without revision.”</p>
+        <cite>Dr. A. Khan, King’s College London</cite>
+      </blockquote>
+      <blockquote>
+        <p>“Perfect Rasch validation of our 42-item questionnaire. Winsteps syntax impeccably commented.”</p>
+        <cite>Prof. M. Weber, University of Vienna</cite>
+      </blockquote>
+      <blockquote>
+        <p>“RNA-seq pipeline and ML classifier with Shiny dashboard—exactly what NIH reviewers wanted.”</p>
+        <cite>Dr. L. Su, Stanford University</cite>
+      </blockquote>
+    </div>
+  </div>
+</section>
+
+<!-- PRICING -->
+<section id="pricing" class="pricing">
+  <div class="container">
+    <h2>Transparent Pricing</h2>
+    <div class="price-cards">
+      <div class="card">
+        <h3>Biostatistics</h3>
+        <div class="rate">$45 / hr</div>
+        <ul>
+          <li>SAP, SAR, sample-size</li>
+          <li>R, SAS, STATA, SPSS</li>
+          <li>STROBE / CONSORT</li>
+        </ul>
+        <a href="#contact" class="btn">Select</a>
+      </div>
+      <div class="card featured">
+        <h3>Systematic Review</h3>
+        <div class="rate">$1,200 <small>≤15 studies</small></div>
+        <ul>
+          <li>PRISMA-2020 protocol</li>
+          <li>Search + extraction</li>
+          <li>RevMan / Stata meta</li>
+          <li>Manuscript writing</li>
+        </ul>
+        <a href="#contact" class="btn primary">Select</a>
+      </div>
+      <div class="card">
+        <h3>Bioinformatics</h3>
+        <div class="rate">$55 / hr</div>
+        <ul>
+          <li>RNA-seq, scRNA, ChIP</li>
+          <li>DE, GSEA, WGCNA</li>
+          <li>R-Shiny dashboards</li>
+        </ul>
+        <a href="#contact" class="btn">Select</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="contact">
+  <div class="container">
+    <h2>Let’s Talk Data</h2>
+    <div class="contact-grid">
+      <form action="https://formsubmit.co/ka.biostatistician@gmail.com" method="POST" id="contactForm">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Email" required>
+        <input type="tel" name="phone" placeholder="WhatsApp">
+        <select name="service" required>
+          <option value="">Select Service</option>
+          <option>Biostatistics</option>
+          <option>Bioinformatics</option>
+          <option>Systematic Review</option>
+          <option>Rasch / Psychometrics</option>
+          <option>Medical Writing</option>
+          <option>AI Integration</option>
+        </select>
+        <textarea name="message" placeholder="Project details / deadline / journal" required></textarea>
+        <button type="submit" class="btn primary">Send Message</button>
+      </form>
+      <div class="contact-info">
+        <h3>Direct Channels</h3>
+        <ul>
+          <li><i class="fab fa-whatsapp"></i><a href="https://wa.me/923076778815">+92 307 677 8815</a></li>
+          <li><i class="fas fa-envelope"></i><a href="mailto:ka.biostatistician@gmail.com">ka.biostatistician@gmail.com</a></li>
+          <li><i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/khalilbiostatistician/">LinkedIn</a></li>
+          <li><i class="fab fa-upwork"></i><a href="https://www.upwork.com/freelancers/khalilbiostatistician">Upwork</a></li>
+        </ul>
+        <p class="tz">GMT+5 – Islamabad, Pakistan (remote worldwide)</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="container footer-container">
+    <p>© 2025 Data Analysis Solutions – Dr. Khalil Ahmad. All rights reserved.</p>
+    <nav>
+      <a href="#">Privacy</a>
+      <a href="#">Terms</a>
+      <a href="#">Sitemap</a>
+    </nav>
+  </div>
+</footer>
+
+<!-- SCRIPTS -->
+<script src="main.js"></script>
+</body>
+</html>
